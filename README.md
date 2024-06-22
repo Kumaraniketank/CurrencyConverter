@@ -42,7 +42,7 @@ to_currency (required): The currency code of the target currency (e.g., EUR).
 Example Request
 sh
 Copy code
-curl -X GET "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies"
+curl -X GET "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/{endpoints}"
 Example Response
 json
 Copy code
